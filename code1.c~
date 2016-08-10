@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-int a=11, b=9 ,c ,d ;
+int a=10, b=9 ,c ,d ;
 //printf ("Enter the two numbers: ");
 //scanf("%d , %d",&a,&b);
 c=a+b;
